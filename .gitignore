@@ -1,0 +1,12 @@
+node_modules
+.vscode-test/
+*.vsix
+.vscode/**
+.vscode-test/**
+test/**
+.yarnrc
+vsc-extension-quickstart.md
+**/jsconfig.json
+**/*.map
+.vscodeignore
+dist/**
